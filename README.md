@@ -23,8 +23,3 @@ This is an app that allows users to search for artists using the iTunes Search A
 2. Open the project in Xcode
 3. Run the simulator
 
-## Acknowledgements
-
-The following resources were used in the development of this project. All custom code is my own.
-
-- [Build an iTunes Search App](https://teamtreehouse.com/library/build-an-itunes-search-app)
