@@ -1,13 +1,7 @@
-# Nocero-Assessment
-
-<div align="center">
-  <img src="screenshot1.png" width="30%" height="30%">
-  <img src="screenshot2.png" width="30%" height="30%">
-</div>
 
 ## Overview
 
-Nocero-Assessment is an app that allows users to search for artists using the iTunes Search API. Search for artists to get a list of albums and call up detail views of album info! The app incorporates:
+This is an app that allows users to search for artists using the iTunes Search API. Search for artists to get a list of albums and call up detail views of album info! The app incorporates:
 
 - Swift
 - JSON
