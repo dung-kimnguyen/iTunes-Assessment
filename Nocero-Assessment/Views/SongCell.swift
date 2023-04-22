@@ -2,8 +2,8 @@
 //  SongCell.swift
 //  Nocero-Assessment
 //
-//  Created by Nocero Beguhe on 07/14/21.
-//  Copyright © 2021 Nocero Beguhe. All rights reserved.
+//  Created by Dung Kim Nguyen on 07/14/21.
+//  Copyright © 2021 Dung Kim Nguyen. All rights reserved.
 //
 
 import UIKit
